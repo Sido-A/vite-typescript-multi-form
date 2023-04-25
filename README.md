@@ -8,7 +8,7 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
 - [Built with](#built-with)
-- [Author](#author)
+- [Website](#website)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -38,6 +38,6 @@ Users should be able to:
 - Tailwindcss
 - Mobile-first workflow
 
-## Author
+## Website
 
-- Multi Form Website - [Vite Typescript Multi Form](https://vite-typescript-multi-form.netlify.app/)
+- [Vite Typescript Multi Form](https://vite-typescript-multi-form.netlify.app/)
